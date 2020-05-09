@@ -1,0 +1,20 @@
+{
+  "name": "vue-tem",
+  "version": "1.0.0",
+  "description": "作者: 风逝无殇",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesim1117/vue-tem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yesim1117/vue-tem/issues"
+  },
+  "homepage": "https://github.com/yesim1117/vue-tem#readme"
+}
