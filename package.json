@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yesim1117/vue-tem/issues"
   },
-  "homepage": "https://github.com/yesim1117/vue-tem#readme"
+  "homepage": "https://github.com/yesim1117/vue-tem#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
